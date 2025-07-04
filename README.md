@@ -1,16 +1,26 @@
-## Hi there 👋
+#  CTRL + ALT + DESTROY
+"We are each our own devil, and we make this world our hell."
 
-<!--
-**bps0/bps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![skull](https://github.com/bps0/bps0/blob/main/skull.gif?raw=true)
 
-Here are some ideas to get you started:
+No bio. No name. Just 0s and 1s bleeding into each other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Abilities
+* **Exploit Development:** Vulnerabilities aren’t mistakes — they’re entry points.
+* **Reverse Engineering:** I dissect binaries like cadavers.
+* **Web Exploitation:** Even with today’s modern UIs, these apps are still cursed with ancient flaws waiting to be exploited.
+* **Mobile Exploitation:** Who would've thought the powerful computers we carry in our pockets would make such juicy targets?
+* **Network Intrusion:** from the inside or out — I'm the threat your blue team warns you about.
+
+## Murder Weapons
+* **RE Tools:** Ghidra, IDA Pro, GDB (with pwndbg or GEF), radare2
+* **Web:** Burp Suite, ZAP, sqlmap, ffuf, nuclei
+* **Mobile:** Custom Frida scripts, MobSF, ADB
+* **Network Intrusion:** impacket, NetExec, mimikatz, Rubeus, BloodHound
+
+## Preferred Dark Scriptures
+* C
+* Assembly
+* Python
+* Go
+* C#
